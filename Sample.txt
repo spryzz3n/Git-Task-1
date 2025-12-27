@@ -1,1 +1,2 @@
 sampletext
+line2
